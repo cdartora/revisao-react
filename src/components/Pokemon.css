@@ -1,0 +1,17 @@
+.pokemon-container {
+  background-color: aliceblue;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px;
+  border-radius: 10px;
+};
+
+.button {
+  width: 140px;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 10px;
+};
